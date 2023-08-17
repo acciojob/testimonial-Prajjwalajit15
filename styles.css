@@ -8,6 +8,7 @@ main{
 }
 
 div{  
+	width:700px;
 	border-style:solid;
 	border-width:1px; 
 	background-color:white;   
